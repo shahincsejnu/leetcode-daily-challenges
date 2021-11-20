@@ -1,1 +1,1 @@
-# leetcode-daily-challenges
+# Leetcode Daily Challenges
